@@ -1,0 +1,8 @@
+title: Zoeyisahunter.GitHub.io
+description: 猎头 热爱互联网 热爱geeker（第一次折腾github）
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
