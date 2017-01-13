@@ -1,7 +1,7 @@
 
 # 目录
 
-[找工作日记 2016-3-26]((http://zoeyisahunter.github.io/two.html)
+[找工作日记 2016-3-26](http://zoeyisahunter.github.io/two.html)
 
 
 # 记于2012年底
