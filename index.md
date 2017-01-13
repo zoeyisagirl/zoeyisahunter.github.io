@@ -8,4 +8,4 @@
 
 
 
- [第二篇](./找工作日记)
+ [第二篇](http://zoeyisahunter.github.io/找工作日记)
